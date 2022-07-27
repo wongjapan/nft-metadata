@@ -1,0 +1,18 @@
+{
+    "title": "Roburna Community",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Roburna Lobby"
+        },
+        "description": {
+            "type": "string",
+            "description": "Roburna Lobby NFT"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://raw.githubusercontent.com/wongjapan/nft-metadata/master/photo_2022-07-27_17-50-34.jpg"
+        }
+    }
+}
